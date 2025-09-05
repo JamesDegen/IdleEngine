@@ -11,6 +11,10 @@ TagManager:
   - Spline
   - CounterStraightDirection
   - TextBox
+  - ResourceAsteroid
+  - ResourceGas
+  - ResourceSalvage
+  - HomePoint
   layers:
   - Default
   - TransparentFX
