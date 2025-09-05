@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4169a547a111a07429dea777828b9c72
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/Vector Graphics/CHANGELOG.md
+  uploadId: 730648

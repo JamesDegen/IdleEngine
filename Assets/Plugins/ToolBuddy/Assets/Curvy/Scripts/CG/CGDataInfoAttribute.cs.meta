@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e90a5a12e5d705c41b90f0aa0179df37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/CG/CGDataInfoAttribute.cs
+  uploadId: 730648

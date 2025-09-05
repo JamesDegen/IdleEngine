@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f607cd45dadce574d9ed3cc48faa6e28
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/DevTools/DevToolsLicense.txt
+  uploadId: 730648

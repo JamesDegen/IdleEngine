@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b98c629cc06985046861231728d21687
+timeCreated: 1441901148
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Materials/ParticleExplosion.mat
+  uploadId: 730648

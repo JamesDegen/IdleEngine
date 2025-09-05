@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6445958350ba8a348ab3594131b02dcb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/24_TerrainLayer.terrainlayer
+  uploadId: 730648

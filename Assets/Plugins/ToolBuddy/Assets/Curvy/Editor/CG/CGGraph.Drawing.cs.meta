@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e5193d0a7cf34b240abf85ff8284bf26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Editor/CG/CGGraph.Drawing.cs
+  uploadId: 730648

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d633bd8737c7424d9b669d9741f499b
+timeCreated: 1439473479
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Materials/Glow.mat
+  uploadId: 730648

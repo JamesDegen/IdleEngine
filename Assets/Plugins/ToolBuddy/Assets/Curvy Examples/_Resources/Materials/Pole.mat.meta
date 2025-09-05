@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 033dc10817dc0b34eaf876897c62889e
+timeCreated: 1433842183
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Materials/Pole.mat
+  uploadId: 730648

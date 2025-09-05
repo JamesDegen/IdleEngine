@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40872b673c65afa41a034045c5bcda65
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/CG Modules/BuildShapeExtrusion.cs
+  uploadId: 730648

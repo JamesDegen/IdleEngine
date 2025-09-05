@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd2a6fa79083d8c468863ad668f919e3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/Shapes/CurvyShape2D.cs
+  uploadId: 730648

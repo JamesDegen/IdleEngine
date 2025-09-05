@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0db4b847e74dae148ad1ba0205adbd50
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/CG/INoProcessing.cs
+  uploadId: 730648

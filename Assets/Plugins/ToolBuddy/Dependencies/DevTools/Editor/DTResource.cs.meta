@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4e7542226fdb3e8458d6dd939f67c79e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/DevTools/Editor/DTResource.cs
+  uploadId: 730648

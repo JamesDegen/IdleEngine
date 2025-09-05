@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7704c37879ce3e0488c058c587eafbba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/Misc/CurvyRepeatingOrderEnum.cs
+  uploadId: 730648

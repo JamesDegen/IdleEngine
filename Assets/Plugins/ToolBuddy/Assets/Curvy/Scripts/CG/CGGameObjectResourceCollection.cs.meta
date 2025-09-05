@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9739f1a75fd6ec4aa9b70ef2ec6f53b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/CG/CGGameObjectResourceCollection.cs
+  uploadId: 730648

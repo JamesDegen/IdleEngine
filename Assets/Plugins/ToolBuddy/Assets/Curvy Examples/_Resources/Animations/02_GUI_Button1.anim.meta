@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 794f4a2afaadb6248948fbe2a9fd18a9
+timeCreated: 1527168143
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Animations/02_GUI_Button1.anim
+  uploadId: 730648

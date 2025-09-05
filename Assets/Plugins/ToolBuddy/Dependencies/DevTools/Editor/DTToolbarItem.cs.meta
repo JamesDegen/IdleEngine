@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c805355f5c0010740a0af2f9d9173e01
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/DevTools/Editor/DTToolbarItem.cs
+  uploadId: 730648

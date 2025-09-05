@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5277bc017e83fe846b4c4c5ff1cd8a0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/CG Modules/BuildVolumeSpots.EditorData.cs
+  uploadId: 730648

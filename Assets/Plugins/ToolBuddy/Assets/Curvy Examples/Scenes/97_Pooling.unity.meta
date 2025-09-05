@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfb46ea8455e6e94f924c444441ec13e
+timeCreated: 1447413833
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/Scenes/97_Pooling.unity
+  uploadId: 730648

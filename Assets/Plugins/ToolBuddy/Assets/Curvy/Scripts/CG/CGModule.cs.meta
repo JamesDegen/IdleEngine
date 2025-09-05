@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3febf7cd67efdd24cabe9faf9224067e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/CG/CGModule.cs
+  uploadId: 730648

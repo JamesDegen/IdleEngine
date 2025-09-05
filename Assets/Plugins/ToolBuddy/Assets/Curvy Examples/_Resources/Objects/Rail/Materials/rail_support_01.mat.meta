@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a4c121be56c81a40847241a8b289a33
+timeCreated: 1442435518
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Objects/Rail/Materials/rail_support_01.mat
+  uploadId: 730648

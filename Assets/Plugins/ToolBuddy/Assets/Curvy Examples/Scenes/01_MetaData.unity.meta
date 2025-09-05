@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83178807cbeef8149ae1e2612988ac5d
+timeCreated: 1436091375
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/Scenes/01_MetaData.unity
+  uploadId: 730648

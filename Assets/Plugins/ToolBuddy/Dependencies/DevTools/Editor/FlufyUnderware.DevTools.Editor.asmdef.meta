@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3c7758d6eea920b47a4e64bf40a7ee66
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/DevTools/Editor/FlufyUnderware.DevTools.Editor.asmdef
+  uploadId: 730648

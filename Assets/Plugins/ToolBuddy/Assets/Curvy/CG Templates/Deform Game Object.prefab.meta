@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2f2d74dda6700147a25d3ef2bff0d30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/CG Templates/Deform Game Object.prefab
+  uploadId: 730648

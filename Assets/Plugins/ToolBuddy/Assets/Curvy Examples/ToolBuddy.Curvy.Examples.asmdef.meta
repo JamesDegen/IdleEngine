@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50811423ce1da714c88dd626f7f9203b
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/ToolBuddy.Curvy.Examples.asmdef
+  uploadId: 730648

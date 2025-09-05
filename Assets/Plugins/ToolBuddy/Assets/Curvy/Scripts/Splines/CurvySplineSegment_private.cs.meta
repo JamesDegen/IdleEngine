@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 948d240c45adf9141b1aaaa44f7d5254
+timeCreated: 1524871908
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Scripts/Splines/CurvySplineSegment_private.cs
+  uploadId: 730648

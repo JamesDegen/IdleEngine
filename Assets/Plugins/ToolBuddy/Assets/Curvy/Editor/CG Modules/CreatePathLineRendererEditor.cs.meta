@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e23df703953ef014db32b2b9fdd05f64
+timeCreated: 1479208691
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Editor/CG Modules/CreatePathLineRendererEditor.cs
+  uploadId: 730648

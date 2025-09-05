@@ -1,0 +1,63 @@
+﻿// =====================================================================
+// Copyright 2013-2018 ToolBuddy
+// All rights reserved
+// 
+// http://www.toolbuddy.net
+// =====================================================================
+
+pmCurvy - Curvy PlayMaker
+
+========== HISTORY ==========================
+8.0.0
+=======
+Made compatible with Curvy 8.0.0
+[FIXED] Example scene PM04_PaintSpline not drawing where the mouse cursor is
+
+7.0.4
+=======
+Optimizations 
+
+7.0.3
+=======
+[FIXED] Curvy Get Nearest Point action not running when Source Point is not a variable
+
+7.0.2
+=======
+Fixed the orientation set by the Curvy Align To Spline action
+
+7.0.1
+=======
+Optimized Curvy Get Value when it does not need to get meta data types
+Added a new event: CURVY / ON END REACHED, triggered when a controller reaches the end of a spline
+
+7.0.0
+=======
+Made compatible with Curvy 7.0.0
+
+6.0.0
+=======
+Made compatible with Curvy 6.0.0
+
+3.0.0
+=======
+Made compatible with Curvy 3.0.0
+
+2.3.0
+=======
+Made compatible with Curvy 2.3.0
+
+2.2.4.1
+=======
+Fixed obsolete warnings for deprecated API in various curvy actions
+
+2.2.3
+=======
+Brouhgt everything up to date
+
+1.0.1.0
+=======
+[CHANGE] Removed legacy code
+
+1.0.0.0
+=======
+Initial Release

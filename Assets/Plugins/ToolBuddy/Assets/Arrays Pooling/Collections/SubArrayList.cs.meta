@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47f615f5619283e4a9d614fd31165ac8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Arrays Pooling/Collections/SubArrayList.cs
+  uploadId: 730648

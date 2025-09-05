@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4f3bdfa960a223645a04f11686263106
+timeCreated: 1440756755
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/DevTools/Components/PrefabPool.cs
+  uploadId: 730648

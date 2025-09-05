@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89ca7bd98c06842498c9fbfe75a037ca
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Dependencies/Vector Graphics/LICENSE.md
+  uploadId: 730648

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d8030feb811c6a4c89e6f6d8c60b4c7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/Editor/Wizards/ModuleWizard.cs
+  uploadId: 730648

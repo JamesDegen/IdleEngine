@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd900bd5d56626b4c8eabdd2281ce84e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Arrays Pooling/ToolBuddy.ArraysPooling.asmdef
+  uploadId: 730648

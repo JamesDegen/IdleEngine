@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93890153f30a45e4f9f536d64c5be5d2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Prefabs/RailBlock.prefab
+  uploadId: 730648

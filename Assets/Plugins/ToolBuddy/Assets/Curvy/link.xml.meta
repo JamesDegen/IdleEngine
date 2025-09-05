@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e66e76514f3c2ec45b6e520ae1d58369
+timeCreated: 1444326128
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy/link.xml
+  uploadId: 730648

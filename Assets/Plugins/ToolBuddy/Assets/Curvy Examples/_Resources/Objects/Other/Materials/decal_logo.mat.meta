@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d41604faa020e7458f93340b1735930
+timeCreated: 1442460448
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212532
+  packageName: Curvy Splines 8
+  packageVersion: 8.11.0
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Curvy Examples/_Resources/Objects/Other/Materials/decal_logo.mat
+  uploadId: 730648
