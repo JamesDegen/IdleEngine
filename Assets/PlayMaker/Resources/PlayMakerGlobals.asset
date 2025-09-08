@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
+    floatVariables:
+    - useVariable: 1
+      name: Tick
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     intVariables: []
     boolVariables: []
     stringVariables: []
@@ -36,7 +42,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 0000000000000000
   events:
   - STARTSKIRMISH
   - MOVESTRAIGHT
@@ -44,3 +50,4 @@ MonoBehaviour:
   - SFX BUTTON ACTIVATE
   - SFX CLICK
   - COLLECT
+  - TEST
