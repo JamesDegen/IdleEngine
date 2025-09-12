@@ -381,8 +381,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 1255
-        y: 221
+        x: 1060.6719
+        y: 223.26562
         width: 189.92
         height: 32
       isBreakpoint: 0
@@ -907,7 +907,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: TurnToLookAtResource
+        toState: Travel to Nearest Resource
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
@@ -976,67 +976,6 @@ MonoBehaviour:
         - everyFrame
         paramDataPos: 0000000001000000000000000200000004000000
         paramByteDataSize: 0000000000000000040000000000000001000000
-    - name: TurnToLookAtResource
-      description: 
-      colorIndex: 0
-      position:
-        serializedVersion: 2
-        x: 957
-        y: 218
-        width: 171.14
-        height: 32
-      isBreakpoint: 0
-      isSequence: 0
-      hideUnused: 0
-      transitions:
-      - fsmEvent:
-          name: FINISHED
-          isSystemEvent: 1
-          isGlobal: 0
-        toState: Travel to Nearest Resource
-        linkStyle: 0
-        linkConstraint: 0
-        linkTarget: 0
-        colorIndex: 0
-      actionData:
-        actionNames: []
-        customNames: []
-        actionEnabled: 
-        actionIsOpen: 
-        actionStartIndex: 
-        actionHashCodes: 
-        unityObjectParams: []
-        fsmGameObjectParams: []
-        fsmOwnerDefaultParams: []
-        animationCurveParams: []
-        functionCallParams: []
-        fsmTemplateControlParams: []
-        fsmEventTargetParams: []
-        fsmPropertyParams: []
-        layoutOptionParams: []
-        fsmStringParams: []
-        fsmObjectParams: []
-        fsmVarParams: []
-        fsmArrayParams: []
-        fsmEnumParams: []
-        fsmFloatParams: []
-        fsmIntParams: []
-        fsmBoolParams: []
-        fsmVector2Params: []
-        fsmVector3Params: []
-        fsmColorParams: []
-        fsmRectParams: []
-        fsmQuaternionParams: []
-        stringParams: []
-        byteData: 
-        arrayParamSizes: 
-        arrayParamTypes: []
-        customTypeSizes: 
-        customTypeNames: []
-        paramDataType: 
-        paramName: []
-        paramDataPos: 
-        paramByteDataSize: 
     - name: Collect resource
       description: and wait till full or Resource is depleted
       colorIndex: 0
