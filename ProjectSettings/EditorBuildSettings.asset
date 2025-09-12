@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/IdleClicker/IdleClickerMain.unity
+    guid: 62d7eb053a398824a92b105a4250b353
+  - enabled: 0
+    path: Assets/IdleClicker/TestScene.unity
+    guid: a71f700c133c44f43a38ef850dff8367
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -51,3 +51,6 @@ MonoBehaviour:
   - SFX CLICK
   - COLLECT
   - TEST
+  - STARTCOLLECTING
+  - PAUSE
+  - +1
