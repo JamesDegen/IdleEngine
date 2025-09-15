@@ -54,3 +54,5 @@ MonoBehaviour:
   - STARTCOLLECTING
   - PAUSE
   - +1
+  - ClearData
+  - CLEARDATA
