@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3044651189456725231}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.62, y: 0, z: 0.23}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
@@ -2469,7 +2469,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 1.5
+        value: 2
       - useVariable: 1
         name: TimeToNearestHomePoint
         tooltip: 
@@ -2487,19 +2487,19 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 1
+        value: 5
       - useVariable: 1
         name: CollectionAmountMax
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 1
+        value: 10
       - useVariable: 1
         name: CollectionDepositPerSecond
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 1
+        value: 5
       - useVariable: 1
         name: AmountOfResourceCollected
         tooltip: 
