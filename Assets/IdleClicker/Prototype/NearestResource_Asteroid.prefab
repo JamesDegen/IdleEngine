@@ -110,8 +110,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 50
-        y: 260
+        x: 489
+        y: 199
         width: 149.35
         height: 48
       isBreakpoint: 0
@@ -181,13 +181,13 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 400
+          value: 9999
         - useVariable: 1
-          name: InitialContainedResources01
+          name: ContainedResources01Max
           tooltip: 
-          showInInspector: 0
+          showInInspector: 1
           networkSync: 0
-          value: 0
+          value: 9999
         - useVariable: 0
           name: 
           tooltip: 
@@ -199,13 +199,13 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0
+          value: 1
         - useVariable: 1
           name: DepletedScale
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 0.3
+          value: 0
         - useVariable: 1
           name: ScaleToSet
           tooltip: 
@@ -217,7 +217,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 400
+          value: 9999
         - useVariable: 0
           name: 
           tooltip: 
@@ -235,7 +235,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 400
+          value: 9999
         - useVariable: 0
           name: 
           tooltip: 
@@ -332,8 +332,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 375
-        y: 273
+        x: 775
+        y: 209
         width: 100
         height: 16
       isBreakpoint: 0
@@ -398,13 +398,13 @@ MonoBehaviour:
         paramDataPos: 0000000000000000
         paramByteDataSize: 0000000000000000
     - name: SetUp
-      description: 
+      description: StartScale Set by Scatter Manager
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 68
-        y: 101
-        width: 100
+        x: 58
+        y: 183
+        width: 158.81
         height: 32
       isBreakpoint: 0
       isSequence: 0
@@ -421,24 +421,18 @@ MonoBehaviour:
         colorIndex: 0
       actionData:
         actionNames:
-        - HutongGames.PlayMaker.Actions.GetScale
+        - HutongGames.PlayMaker.Actions.FloatOperator
+        - HutongGames.PlayMaker.Actions.Wait
         customNames:
         - 
-        actionEnabled: 01
-        actionIsOpen: 01
-        actionStartIndex: 00000000
-        actionHashCodes: 5552ad05
+        - 
+        actionEnabled: 0101
+        actionIsOpen: 0101
+        actionStartIndex: 0000000005000000
+        actionHashCodes: 0cdb040548c01101
         unityObjectParams: []
         fsmGameObjectParams: []
-        fsmOwnerDefaultParams:
-        - ownerOption: 0
-          gameObject:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: {fileID: 0}
+        fsmOwnerDefaultParams: []
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -456,49 +450,129 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0
+          value: 1
         - useVariable: 1
-          name: StartScale
+          name: ResourcesPerScaleUnit
           tooltip: 
-          showInInspector: 0
+          showInInspector: 1
           networkSync: 0
-          value: 0
+          value: 1000
         - useVariable: 1
-          name: StartScale
+          name: ContainedResources01
           tooltip: 
-          showInInspector: 0
+          showInInspector: 1
           networkSync: 0
-          value: 0
-        fsmIntParams: []
-        fsmBoolParams: []
-        fsmVector2Params: []
-        fsmVector3Params:
-        - useVariable: 1
+          value: 9999
+        - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 0, y: 0, z: 0}
+          value: 0.016666668
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
-        stringParams: []
-        byteData: 0000000000
+        stringParams:
+        - FINISHED
+        byteData: 020000000001
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 140000001c0000000f0000000f0000000f0000000700000001000000
+        paramDataType: 0f0000000f000000070000000f000000010000000f0000001700000001000000
         paramName:
-        - gameObject
-        - vector
-        - xScale
-        - yScale
-        - zScale
-        - space
+        - float1
+        - float2
+        - operation
+        - storeResult
         - everyFrame
-        paramDataPos: 00000000000000000000000001000000020000000000000004000000
-        paramByteDataSize: 00000000000000000000000000000000000000000400000001000000
+        - time
+        - finishEvent
+        - realTime
+        paramDataPos: 0000000001000000000000000200000004000000030000000000000005000000
+        paramByteDataSize: 0000000000000000040000000000000001000000000000000000000001000000
+    - name: Remove Half
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 511
+        y: 105
+        width: 104.16
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: Check for depletion
+        linkStyle: 0
+        linkConstraint: 0
+        linkTarget: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.FloatMultiply
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 9845b305
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams:
+        - useVariable: 1
+          name: ContainedResources01
+          tooltip: 
+          showInInspector: 1
+          networkSync: 0
+          value: 9999
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0.5
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 00
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0f0000000f00000001000000
+        paramName:
+        - floatVariable
+        - multiplyBy
+        - everyFrame
+        paramDataPos: 000000000100000000000000
+        paramByteDataSize: 000000000000000001000000
     events:
     - name: FINISHED
       isSystemEvent: 1
@@ -506,7 +580,19 @@ MonoBehaviour:
     - name: Depleted
       isSystemEvent: 0
       isGlobal: 0
-    globalTransitions: []
+    - name: DIVIDE
+      isSystemEvent: 0
+      isGlobal: 1
+    globalTransitions:
+    - fsmEvent:
+        name: DIVIDE
+        isSystemEvent: 0
+        isGlobal: 1
+      toState: Remove Half
+      linkStyle: 0
+      linkConstraint: 0
+      linkTarget: 0
+      colorIndex: 0
     variables:
       floatVariables:
       - useVariable: 1
@@ -514,17 +600,17 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 400
+        value: 9999
+      - useVariable: 1
+        name: ContainedResources01Max
+        tooltip: 
+        showInInspector: 1
+        networkSync: 0
+        value: 9999
       - useVariable: 1
         name: DepletedScale
         tooltip: 
         showInInspector: 1
-        networkSync: 0
-        value: 0.3
-      - useVariable: 1
-        name: InitialContainedResources01
-        tooltip: 
-        showInInspector: 0
         networkSync: 0
         value: 0
       - useVariable: 1
@@ -538,13 +624,19 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: 0
+        value: 1
       - useVariable: 1
         name: WaitBetweenChecks
         tooltip: 
         showInInspector: 1
         networkSync: 0
         value: 0.25
+      - useVariable: 1
+        name: ResourcesPerScaleUnit
+        tooltip: 
+        showInInspector: 1
+        networkSync: 0
+        value: 1000
       intVariables: []
       boolVariables: []
       stringVariables: []
@@ -555,7 +647,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: {x: 300, y: 300, z: 300}
+        value: {x: 0, y: 0, z: 0}
       colorVariables: []
       rectVariables: []
       quaternionVariables: []
@@ -567,7 +659,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -576,10 +668,13 @@ MonoBehaviour:
     password: 
     locked: 0
     manualUpdate: 0
-    outVariableIndices: 06000000
+    outVariableIndices: 030000000400000007000000
     keepDelayedEventsOnStateExit: 0
     preprocessed: 0
-    ExposedEvents: []
+    ExposedEvents:
+    - name: DIVIDE
+      isSystemEvent: 0
+      isGlobal: 1
     OutputEvents: []
     RestartOnEnable: 1
     ResetVariablesOnEnable: 0

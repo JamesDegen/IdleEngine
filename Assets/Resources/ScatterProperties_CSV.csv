@@ -1,2 +1,2 @@
-Position,Rotation,Scale,TargetPosition,Cargo01,Cargo02,Cargo03,Cargo04
-0.0.0,45.45.45,1,255.255.255,15,30,0,0
+Position,Rotation,Scale,TargetPosition,Resources01Max,Resource01Contained
+0.0.0,45.45.45,1,255.255.255,15,30

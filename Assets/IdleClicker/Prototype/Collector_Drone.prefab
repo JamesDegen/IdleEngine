@@ -411,7 +411,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 0.25
+          value: 1
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -875,7 +875,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 5
+          value: 2
         - useVariable: 1
           name: TimeToNearestResource
           tooltip: 
@@ -987,7 +987,7 @@ MonoBehaviour:
           networkSync: 0
           value: NearestResource
         - useVariable: 1
-          name: NearestResourceVariable
+          name: NearestResourceVAR
           tooltip: 
           showInInspector: 1
           networkSync: 0
@@ -999,7 +999,7 @@ MonoBehaviour:
           networkSync: 0
           value: NearestResource
         - useVariable: 1
-          name: NearestResourceVariable
+          name: NearestResourceVAR
           tooltip: 
           showInInspector: 1
           networkSync: 0
@@ -1038,7 +1038,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 5
         - useVariable: 1
           name: AmountOfResourceCollected
           tooltip: 
@@ -1050,7 +1050,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 5
         - useVariable: 1
           name: AmountOfResourceCollected
           tooltip: 
@@ -1068,7 +1068,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 10
         - useVariable: 1
           name: AmountOfResourceCollected
           tooltip: 
@@ -1080,7 +1080,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 10
         - useVariable: 0
           name: 
           tooltip: 
@@ -1377,7 +1377,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 5
+          value: 2
         - useVariable: 1
           name: TimeToNearestHomePoint
           tooltip: 
@@ -1554,7 +1554,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 0.25
+          value: 1
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -1731,7 +1731,7 @@ MonoBehaviour:
           networkSync: 0
           value: ResourceManager
         - useVariable: 1
-          name: ResourceManagerTotalVariable
+          name: ResourceManagerTotalVAR
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1752,7 +1752,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 5
         - useVariable: 1
           name: AmountOfResourceCollected
           tooltip: 
@@ -1776,7 +1776,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 5
         - useVariable: 1
           name: AmountToDeposit
           tooltip: 
@@ -1915,7 +1915,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 10
         fsmIntParams:
         - useVariable: 1
           name: 
@@ -2540,11 +2540,11 @@ MonoBehaviour:
         networkSync: 0
         value: NearestResource
       - useVariable: 1
-        name: NearestResourceVariable
+        name: NearestResourceVAR
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: ContainedResource
+        value: ContainedResources01
       - useVariable: 1
         name: ResourceManagerFSM
         tooltip: 
@@ -2552,7 +2552,7 @@ MonoBehaviour:
         networkSync: 0
         value: ResourceManager
       - useVariable: 1
-        name: ResourceManagerTotalVariable
+        name: ResourceManagerTotalVAR
         tooltip: 
         showInInspector: 0
         networkSync: 0
