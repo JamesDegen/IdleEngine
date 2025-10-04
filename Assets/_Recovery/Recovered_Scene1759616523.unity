@@ -39428,7 +39428,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5970458549140729294, guid: d85186f09c279b747bddbaf7513c8704, type: 3}
       propertyPath: m_Name
-      value: ScatterManager_Drones_Needs fixing
+      value: ScatterManager_Drones
       objectReference: {fileID: 0}
     - target: {fileID: 7998482239768797822, guid: d85186f09c279b747bddbaf7513c8704, type: 3}
       propertyPath: m_LocalPosition.x

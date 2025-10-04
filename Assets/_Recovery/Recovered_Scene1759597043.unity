@@ -25081,13 +25081,13 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 9999
+          value: 10
         - useVariable: 1
           name: 01_RandomStartContainedResourcesMax
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 9999
+          value: 200
         - useVariable: 1
           name: InitialContainedResourcesMax
           tooltip: 
@@ -25111,7 +25111,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 75
         - useVariable: 1
           name: 
           tooltip: 
@@ -25159,7 +25159,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 0.01
+          value: 0.1
         - useVariable: 1
           name: ContainedResourceXScalePerUnity
           tooltip: 
@@ -25801,7 +25801,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: 1
+          value: 75
         fsmBoolParams: []
         fsmVector2Params: []
         fsmVector3Params:
@@ -25821,7 +25821,7 @@ MonoBehaviour:
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams:
-        - FINISHED
+        - Loop
         - Loop
         - FINISHED
         byteData: 000000
@@ -29096,19 +29096,19 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 2
+        value: 10
       - useVariable: 1
         name: 01_RandomStartContainedResourcesMax
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 2
+        value: 200
       - useVariable: 1
         name: 02_ScaleUnitsPerResource
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 1
+        value: 0.1
       - useVariable: 1
         name: 03_ScaleModifier(DensityHack)
         tooltip: 
@@ -39428,7 +39428,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5970458549140729294, guid: d85186f09c279b747bddbaf7513c8704, type: 3}
       propertyPath: m_Name
-      value: ScatterManager_Drones_Needs fixing
+      value: ScatterManager_Drones
       objectReference: {fileID: 0}
     - target: {fileID: 7998482239768797822, guid: d85186f09c279b747bddbaf7513c8704, type: 3}
       propertyPath: m_LocalPosition.x
